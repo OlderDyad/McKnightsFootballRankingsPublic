@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\obj\\Release\\net8.0\\compressed\\fb3gfk1l3i.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\obj\\Release\\net8.0\\scopedcss\\bundle\\McKnightsFootballRankingsPublic.styles.css",
+      "PackagePath": "staticwebassets\\McKnightsFootballRankingsPublic.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.McKnightsFootballRankingsPublic.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.McKnightsFootballRankingsPublic.props",
+      "PackagePath": "build\\McKnightsFootballRankingsPublic.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.McKnightsFootballRankingsPublic.props",
+      "PackagePath": "buildMultiTargeting\\McKnightsFootballRankingsPublic.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.McKnightsFootballRankingsPublic.props",
+      "PackagePath": "buildTransitive\\McKnightsFootballRankingsPublic.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
