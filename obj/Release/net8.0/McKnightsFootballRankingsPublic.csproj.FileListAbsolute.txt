@@ -1029,3 +1029,4 @@ C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\obj\Releas
 C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\obj\Release\net8.0\refint\McKnightsFootballRankingsPublic.dll
 C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\obj\Release\net8.0\McKnightsFootballRankingsPublic.pdb
 C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\obj\Release\net8.0\ref\McKnightsFootballRankingsPublic.dll
+C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\obj\Release\net8.0\McKnightsFootballRankingsPublic.sourcelink.json

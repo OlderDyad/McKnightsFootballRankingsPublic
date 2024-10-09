@@ -4,6 +4,8 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <!-- Publish directory set to docs -->
+    <PublishDir>$(ProjectDir)docs\</PublishDir>
   </PropertyGroup>
 
   <ItemGroup>
@@ -11,4 +13,18 @@
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="8.0.10" PrivateAssets="all" />
   </ItemGroup>
 
+  <!-- Clean docs folder before every publish -->
+  <Target Name="CleanDocsFolder" BeforeTargets="Publish">
+    <RemoveDir Directories="$(ProjectDir)docs" />
+  </Target>
+
+  <!-- Move files from wwwroot to docs after publish -->
+  <Target Name="CopyPublishedFilesToDocs" AfterTargets="Publish">
+    <ItemGroup>
+      <PublishedFiles Include="$(PublishDir)**/*" />
+    </ItemGroup>
+    <Copy SourceFiles="@(PublishedFiles)" DestinationFolder="$(ProjectDir)docs\%(RecursiveDir)" />
+  </Target>
+
 </Project>
+
