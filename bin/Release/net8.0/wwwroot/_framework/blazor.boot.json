@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "McKnightsFootballRankingsPublic",
   "resources": {
-    "hash": "sha256-x7I4w8gbMLsXiUiMtRPFWyWOBVuugDFRH8ykE8z4UbM=",
+    "hash": "sha256-6tLA6yJ6+RxqGHwIFFbNHIuZ7v7OumdVS7sdqj4KoaU=",
     "jsModuleNative": {
       "dotnet.native.8.0.10.dttvpwtuld.js": "sha256-QVxMlY7ohmjgde/bZMA0dlWDAeuUP+tEfkiSdg4DFcE="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-KvqZaNpjwhrOuzE4b4aMFsI+VUTyiWfoDI4zn4l9BM8=",
       "netstandard.wasm": "sha256-v+s7sWxtOM6bnOvC0jFrtnm6uMfbDymwl2nHNgbS2LM=",
       "System.Private.CoreLib.wasm": "sha256-pklll63uFQoY6vaD3vbluS9osYiJWLLLmob1yHFgepI=",
-      "McKnightsFootballRankingsPublic.wasm": "sha256-2D4mMemRVeeySMuRuOw14iq087WljAQcbaOLQ+OZM+4="
+      "McKnightsFootballRankingsPublic.wasm": "sha256-Pdu8/14WdFnKZ/UToCZ+Wn6hZ2mDGG6nPojoUWoGbkw="
     },
     "pdb": {
-      "McKnightsFootballRankingsPublic.pdb": "sha256-3YTytHLB4ZDU0C8V7hEodDVGsePF/IInWjsbVJEB28c="
+      "McKnightsFootballRankingsPublic.pdb": "sha256-iAO41LBWxelYC3kDyTdhMp4JQFosCgGcC6fZ7pxm3I4="
     }
   },
   "cacheBootResources": true,
