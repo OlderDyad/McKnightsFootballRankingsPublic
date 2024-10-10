@@ -820,7 +820,6 @@ C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\obj\Releas
 C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\obj\Release\net8.0\scopedcss\Layout\NavMenu.razor.rz.scp.css
 C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\obj\Release\net8.0\scopedcss\bundle\McKnightsFootballRankingsPublic.styles.css
 C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\obj\Release\net8.0\scopedcss\projectbundle\McKnightsFootballRankingsPublic.bundle.scp.css
-C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\obj\Release\net8.0\compressed\fb3gfk1l3i.gz
 C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\obj\Release\net8.0\compressed\iyn7b87lil.gz
 C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\obj\Release\net8.0\compressed\1tmv675rum.gz
 C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\obj\Release\net8.0\compressed\kv9lu0o9h7.gz
@@ -1029,3 +1028,10 @@ C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\obj\Releas
 C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\obj\Release\net8.0\refint\McKnightsFootballRankingsPublic.dll
 C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\obj\Release\net8.0\McKnightsFootballRankingsPublic.pdb
 C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\obj\Release\net8.0\ref\McKnightsFootballRankingsPublic.dll
+C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\bin\Release\net8.0\docs\web.config
+C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\bin\Release\net8.0\docs\sample-data\weather.json
+C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\bin\Release\net8.0\docs\wwwroot\sample-data\weather.json
+C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\bin\Release\net8.0\docs\wwwroot\_framework\blazor.boot.json
+C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\bin\Release\net8.0\docs\_framework\blazor.boot.json
+C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\obj\Release\net8.0\McKnightsFootballRankingsPublic.sourcelink.json
+C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\obj\Release\net8.0\compressed\djym7guc63.gz

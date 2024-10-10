@@ -5,7 +5,7 @@
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\obj\\Release\\net8.0\\compressed\\fb3gfk1l3i.gz",
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\obj\\Release\\net8.0\\compressed\\djym7guc63.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
@@ -31,6 +31,138 @@
     {
       "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\AL\\Alabaster Thompson\\Mascot_Logo.webp",
+      "PackagePath": "staticwebassets\\images\\Teams\\AL\\Alabaster Thompson\\Mascot_Logo.webp"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\AL\\Alabaster Thompson\\Team_State_Champ_Photo.webp",
+      "PackagePath": "staticwebassets\\images\\Teams\\AL\\Alabaster Thompson\\Team_State_Champ_Photo.webp"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\AL\\Alabaster Thompson\\_Thompson_High_School_Logo.png",
+      "PackagePath": "staticwebassets\\images\\Teams\\AL\\Alabaster Thompson\\_Thompson_High_School_Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\AL\\Pinson Clay-Chalkville\\Mascot_Logo.png",
+      "PackagePath": "staticwebassets\\images\\Teams\\AL\\Pinson Clay-Chalkville\\Mascot_Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\AL\\Pinson Clay-Chalkville\\School_logo.png",
+      "PackagePath": "staticwebassets\\images\\Teams\\AL\\Pinson Clay-Chalkville\\School_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\CA\\Bellflower_Saint_John_Bosco\\Helmet_Logo.png",
+      "PackagePath": "staticwebassets\\images\\Teams\\CA\\Bellflower_Saint_John_Bosco\\Helmet_Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\CA\\Bellflower_Saint_John_Bosco\\SJB.jpeg",
+      "PackagePath": "staticwebassets\\images\\Teams\\CA\\Bellflower_Saint_John_Bosco\\SJB.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\CA\\Bellflower_Saint_John_Bosco\\SJB_Official_Seal.jpg",
+      "PackagePath": "staticwebassets\\images\\Teams\\CA\\Bellflower_Saint_John_Bosco\\SJB_Official_Seal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\MI\\Muskegon\\MuskegonHigh_School_Drawing_1927.jpg",
+      "PackagePath": "staticwebassets\\images\\Teams\\MI\\Muskegon\\MuskegonHigh_School_Drawing_1927.jpg"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\MI\\Muskegon\\School_logo.png",
+      "PackagePath": "staticwebassets\\images\\Teams\\MI\\Muskegon\\School_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\MI\\Saginaw High\\School_Drawing.jpg",
+      "PackagePath": "staticwebassets\\images\\Teams\\MI\\Saginaw High\\School_Drawing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\MI\\Saginaw High\\Screenshot 2024-09-23 183906 scores1.jpg",
+      "PackagePath": "staticwebassets\\images\\Teams\\MI\\Saginaw High\\Screenshot 2024-09-23 183906 scores1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\MI\\Saginaw High\\Screenshot 2024-09-23 183906 scores2.jpg",
+      "PackagePath": "staticwebassets\\images\\Teams\\MI\\Saginaw High\\Screenshot 2024-09-23 183906 scores2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\MI\\Saginaw High\\Screenshot 2024-09-23 183906 scores3.jpg",
+      "PackagePath": "staticwebassets\\images\\Teams\\MI\\Saginaw High\\Screenshot 2024-09-23 183906 scores3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\MI\\Saginaw High\\Screenshot 2024-09-23 183906 scores4.jpg",
+      "PackagePath": "staticwebassets\\images\\Teams\\MI\\Saginaw High\\Screenshot 2024-09-23 183906 scores4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\MI\\Saginaw High\\Screenshot 2024-09-23 183906 scores5.jpg",
+      "PackagePath": "staticwebassets\\images\\Teams\\MI\\Saginaw High\\Screenshot 2024-09-23 183906 scores5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\MI\\Saginaw High\\Screenshot 2024-09-23 183906 scores6.jpg",
+      "PackagePath": "staticwebassets\\images\\Teams\\MI\\Saginaw High\\Screenshot 2024-09-23 183906 scores6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\MI\\Saginaw High\\Screenshot 2024-09-23 1918 football team photo.jpg",
+      "PackagePath": "staticwebassets\\images\\Teams\\MI\\Saginaw High\\Screenshot 2024-09-23 1918 football team photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\OH\\CincinnatiArchbishopMoeller\\Moeller_High_School_seal.png",
+      "PackagePath": "staticwebassets\\images\\Teams\\OH\\CincinnatiArchbishopMoeller\\Moeller_High_School_seal.png"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\OH\\CincinnatiArchbishopMoeller\\School_Logo-ReversedW360.png",
+      "PackagePath": "staticwebassets\\images\\Teams\\OH\\CincinnatiArchbishopMoeller\\School_Logo-ReversedW360.png"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\TX\\Abilene\\Abilene Eagles Logo.jpeg",
+      "PackagePath": "staticwebassets\\images\\Teams\\TX\\Abilene\\Abilene Eagles Logo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\TX\\Abilene\\Abilene-Helmet.png",
+      "PackagePath": "staticwebassets\\images\\Teams\\TX\\Abilene\\Abilene-Helmet.png"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\TX\\TheWoodlands\\HS_Team_Names_for_The_Woodlands__TX_.csv",
+      "PackagePath": "staticwebassets\\images\\Teams\\TX\\TheWoodlands\\HS_Team_Names_for_The_Woodlands__TX_.csv"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\TX\\TheWoodlands\\Mascot.jpeg",
+      "PackagePath": "staticwebassets\\images\\Teams\\TX\\TheWoodlands\\Mascot.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\TX\\TheWoodlands\\TWHS-HIGHLANDERS-96x200_Mascot_Logo.jpg",
+      "PackagePath": "staticwebassets\\images\\Teams\\TX\\TheWoodlands\\TWHS-HIGHLANDERS-96x200_Mascot_Logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\TX\\TheWoodlands\\The_Woodlands_School_Photo.jpg",
+      "PackagePath": "staticwebassets\\images\\Teams\\TX\\TheWoodlands\\The_Woodlands_School_Photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\TX\\TheWoodlands\\a9887370-b467-4733-af86-20a4a0b4d3aa.webp",
+      "PackagePath": "staticwebassets\\images\\Teams\\TX\\TheWoodlands\\a9887370-b467-4733-af86-20a4a0b4d3aa.webp"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\WA\\Everett\\Everett_ChampionFootball_1920.jpg",
+      "PackagePath": "staticwebassets\\images\\Teams\\WA\\Everett\\Everett_ChampionFootball_1920.jpg"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\WA\\Everett\\Everett_WA HS LOGO 2020.png",
+      "PackagePath": "staticwebassets\\images\\Teams\\WA\\Everett\\Everett_WA HS LOGO 2020.png"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\Teams\\WA\\Everett\\Everett_WA HS Logo._Seagulls.jpeg",
+      "PackagePath": "staticwebassets\\images\\Teams\\WA\\Everett\\Everett_WA HS Logo._Seagulls.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\football-field-mid.jpg",
+      "PackagePath": "staticwebassets\\images\\football-field-mid.jpg"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\football-field-top.jpg",
+      "PackagePath": "staticwebassets\\images\\football-field-top.jpg"
+    },
+    {
+      "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\images\\football-field.jpg",
+      "PackagePath": "staticwebassets\\images\\football-field.jpg"
     },
     {
       "Id": "C:\\Users\\demck\\OneDrive\\Football_2024\\McKnightsFootballRankingsPublic\\wwwroot\\index.html",

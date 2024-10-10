@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("McKnightsFootballRankingsPublic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ef091af350d14f8d491eb499d1c4b411ea9a4fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("McKnightsFootballRankingsPublic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("McKnightsFootballRankingsPublic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
