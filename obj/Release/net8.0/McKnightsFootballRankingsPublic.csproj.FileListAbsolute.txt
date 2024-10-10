@@ -1030,3 +1030,5 @@ C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\obj\Releas
 C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\obj\Release\net8.0\McKnightsFootballRankingsPublic.pdb
 C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\obj\Release\net8.0\ref\McKnightsFootballRankingsPublic.dll
 C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\obj\Release\net8.0\McKnightsFootballRankingsPublic.sourcelink.json
+C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\bin\Release\net8.0\docs\sample-data\weather.json
+C:\Users\demck\OneDrive\Football_2024\McKnightsFootballRankingsPublic\bin\Release\net8.0\docs\_framework\blazor.boot.json

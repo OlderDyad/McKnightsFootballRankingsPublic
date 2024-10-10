@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "McKnightsFootballRankingsPublic",
   "resources": {
-    "hash": "sha256-+3QAVXMdJbTOFlGPdQvTQ3vPzsRGpBr5hGzgESPfL5I=",
+    "hash": "sha256-wW54RUcs5qu1CU7v/d2qicW0DCigHvlIyypQGu6ilFw=",
     "jsModuleNative": {
       "dotnet.native.8.0.10.luo1ro68wy.js": "sha256-FWE08dRA/APXlSTclctffF9nmrGnMzyoamCuPXmuxdA="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "McKnightsFootballRankingsPublic.wasm": "sha256-n3EYQOVekhlaG9ti/TB8pz0PLNgSsuxiY6Wy/7Xo8O0=",
+      "McKnightsFootballRankingsPublic.wasm": "sha256-Pdu8/14WdFnKZ/UToCZ+Wn6hZ2mDGG6nPojoUWoGbkw=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-m5TgrLGF17JYAx/Un/IB0KQ0lx9eDrQ3iii4GNszXZI=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-QfEtrkpquFvCm+ZXF0D0Cn3neNz6yJvHOnpckRSSuvs=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-3eOyO4ym/P4OFyhNf/04qtnuLbZdmqrUkiR7WpF8dh0=",

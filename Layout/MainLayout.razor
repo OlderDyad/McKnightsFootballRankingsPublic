@@ -1,16 +1,28 @@
 ﻿@inherits LayoutComponentBase
+
+<PageTitle>McKnight's Football Rankings</PageTitle>
+
 <div class="page">
     <div class="sidebar">
         <NavMenu />
     </div>
 
     <main>
-        <div class="top-row px-4">
-            <a href="https://learn.microsoft.com/aspnet/core/" target="_blank">About</a>
-        </div>
+        <header class="main-header">
+            <div class="header-content">
+                <h1>McKnight's Football Rankings</h1>
+            </div>
+        </header>
 
         <article class="content px-4">
             @Body
         </article>
+
+        <footer class="footer">
+            <div class="container">
+                <p>&copy; 2024 McKnight's Football Rankings</p>
+            </div>
+        </footer>
     </main>
 </div>
+
