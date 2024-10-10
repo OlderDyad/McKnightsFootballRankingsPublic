@@ -1,0 +1,22 @@
+Version Control Process for McKnight Football Rankings WebAssembly Project
+
+1. Navigate to the root directory of the project in your terminal.
+
+2. To commit the current development version to stable-release and create a new development version:
+
+   ./Admin/version-control.sh <new_version_name>
+
+Example:
+   ./Admin/version-control.sh dev-2024-10
+
+What this does:
+- Merges the current development branch into stable-release.
+- Pushes the stable release branch to the remote repository.
+- Creates a new development branch based on the stable version.
+- Pushes the new development branch to the remote repository.
+
+Ensure that the script has execute permissions:
+
+   chmod +x Admin/version-control.sh
+
+Version management steps are now automated.
