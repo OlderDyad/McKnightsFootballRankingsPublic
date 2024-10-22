@@ -1,0 +1,33 @@
+name: Build and Deploy Blazor App
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up .NET
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: '8.0.x' # Use the correct version you're working with
+
+      - name: Install dependencies
+        run: dotnet restore
+
+      - name: Publish Blazor WebAssembly
+        run: dotnet publish -c Release -o publish
+
+      - name: Deploy to Vercel
+        uses: amondnet/vercel-action@v20
+        with:
+          vercel-token: ${{ secrets.VERCEL_TOKEN }}
+          vercel-args: "--prod"
+          working-directory: ./publish/wwwroot
+          github-token: ${{ secrets.GITHUB_TOKEN }}
